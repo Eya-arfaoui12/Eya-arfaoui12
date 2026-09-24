@@ -136,14 +136,6 @@
 #### 📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-arfaoui12&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eya-arfaoui12&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com/?user=eya-arfaoui12" alt="GitHub Streak" />
 </p>
 
