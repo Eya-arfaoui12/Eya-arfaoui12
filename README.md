@@ -16,7 +16,7 @@
 - 💬 Ask me about **React, Node.js, Python, Django, MongoDB, RAG, Docker and DevOps**
 - 📫 How to reach me **eyaarfaoui300@gmail.com**
 - 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/13uYbG9W6jloSyjswpu2b9DN0wTp85-kp/view?usp=sharing)
-- ⚡ Fun fact: **I start projects with "this will be simple"... and we all know how that ends. 😄**
+- ⚡ Fun fact: **I debug better after coffee ☕**
 
 ---
 
